@@ -1,0 +1,27 @@
+﻿# Environment & Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases & Cache
+database/*.db
+.cache
+.cache/
+logs/*.log
+
+# Operating System
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

@@ -1,0 +1,136 @@
+id,title,artist,genre,language,emotion,valence,energy,danceability,acousticness,tempo,activities,spotify_url
+s001,Levitating,Dua Lipa,Pop,English,joy,0.88,0.84,0.82,0.03,124,"Party,Workout,Commute",https://open.spotify.com/track/463CkQjx2Zk1yXoBuGbM9K
+s002,Uptown Funk,Mark Ronson ft. Bruno Mars,Pop,English,joy,0.93,0.89,0.86,0.01,115,"Party,Workout,Travel",https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+s003,Can't Stop the Feeling!,Justin Timberlake,Pop,English,joy,0.91,0.83,0.79,0.02,113,"Party,Workout,Commute",https://open.spotify.com/track/1WkMMJnEmMw0JLaUmUVFEG
+s004,Happy,Pharrell Williams,Pop,English,joy,0.96,0.82,0.85,0.04,160,"Party,Workout,Travel",https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH
+s005,Walking on Sunshine,Katrina and The Waves,Rock,English,joy,0.94,0.86,0.74,0.02,110,"Workout,Travel,Party",https://open.spotify.com/track/05wIrZUrVjhioioJWDoKpJ
+s006,Good as Hell,Lizzo,Pop,English,joy,0.82,0.89,0.78,0.12,96,"Workout,Party,Commute",https://open.spotify.com/track/6KgBpzTuTRPebScSJ02Tu1
+s007,On Top of the World,Imagine Dragons,Pop,English,joy,0.85,0.84,0.72,0.06,100,"Travel,Workout,Commute",https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+s008,Blinding Lights,The Weeknd,Electronic,English,joy,0.78,0.9,0.8,0.01,171,"Workout,Party,Travel",https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+s009,Shake It Off,Taylor Swift,Pop,English,joy,0.92,0.8,0.76,0.05,160,"Party,Workout,Commute",https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD
+s010,Shut Up and Dance,WALK THE MOON,Rock,English,joy,0.87,0.88,0.7,0.02,128,"Party,Workout,Travel",https://open.spotify.com/track/4kbj5iiOXZq1Z3IR9qs4bt
+s011,High Hopes,Panic! At The Disco,Rock,English,joy,0.81,0.9,0.68,0.03,82,"Workout,Commute,Travel",https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom
+s012,Dynamite,BTS,Pop,English,joy,0.89,0.86,0.81,0.01,114,"Party,Commute,Workout",https://open.spotify.com/track/4sakLk6crCSx2WB1vxAwhT
+s013,Treasure,Bruno Mars,Pop,English,joy,0.9,0.81,0.82,0.04,116,"Party,Travel,Commute",https://open.spotify.com/track/55h7vJdnYT2wmOkBgxfeg0
+s014,I Gotta Feeling,Black Eyed Peas,Electronic,English,joy,0.86,0.89,0.74,0.03,128,"Party,Workout",https://open.spotify.com/track/4kLLWz7srcuLns7Et4ZZ7P
+s015,Sugar,Maroon 5,Pop,English,joy,0.88,0.79,0.75,0.06,120,"Party,Commute,Travel",https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPFR
+s016,Sunroof,"Nicky Youre, dazy",Pop,English,joy,0.84,0.74,0.77,0.12,131,"Travel,Commute,Relax",https://open.spotify.com/track/4h493neTvSlDxCVcqTQPtG
+s017,Don't Stop Me Now,Queen,Rock,English,joy,0.88,0.86,0.56,0.05,156,"Workout,Party,Travel",https://open.spotify.com/track/5T8Ku1igT7ub4Y9NV5QgkF
+s018,Love On Top,Beyonce,R&B,English,joy,0.82,0.78,0.68,0.08,94,"Party,Workout,Commute",https://open.spotify.com/track/1z6WtY7X4HQJvzxT4rOHJR
+s019,Tongue Tied,GROUPLOVE,Indie,English,joy,0.79,0.85,0.65,0.01,113,"Travel,Party,Workout",https://open.spotify.com/track/0GO8y8jQkIMSj3UQ4aQ3VR
+s020,September,"Earth, Wind and Fire",R&B,English,joy,0.95,0.86,0.7,0.15,126,"Party,Travel,Commute",https://open.spotify.com/track/2grjqo0Frpf25IBiKNQcfW
+s021,Bailando,Enrique Iglesias,Pop,Spanish,joy,0.86,0.85,0.76,0.04,91,"Party,Dance,Travel",https://open.spotify.com/track/2eF7qY8j1H6D9g3M9vRzL1
+s022,Vivir Mi Vida,Marc Anthony,Pop,Spanish,joy,0.92,0.88,0.66,0.14,105,"Party,Travel,Commute",https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp
+s023,Gallan Goodiyaan,"Yashita Sharma, Shankar Mahadevan",Pop,Hindi,joy,0.94,0.92,0.73,0.06,128,"Party,Dance,Workout",https://open.spotify.com/track/5c98jYj7K2XG8ZJqN7g8g1
+s024,London Thumakda,"Labh Janjua, Sonu Kakkar",Pop,Hindi,joy,0.91,0.89,0.79,0.08,125,"Party,Dance,Commute",https://open.spotify.com/track/4Wq40gHk4sL1eD3nJ8z1Y2
+s025,Sooraj Dooba Hain,"Arijit Singh, Aditi Singh Sharma",Electronic,Hindi,joy,0.85,0.88,0.68,0.03,128,"Party,Travel,Workout",https://open.spotify.com/track/3H8nL5w1S9h4K2X7j6z1B9
+s026,Someone Like You,Adele,Pop,English,sadness,-0.72,0.33,0.56,0.89,68,"Relax,Sleep",https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV
+s027,Fix You,Coldplay,Rock,English,sadness,-0.62,0.42,0.42,0.16,70,"Relax,Focus,Travel",https://open.spotify.com/track/7LVHVU3tWfcxj5aiP2W4aQ
+s028,Let Her Go,Passenger,Acoustic,English,sadness,-0.58,0.38,0.51,0.4,75,"Relax,Travel",https://open.spotify.com/track/0JmiBCpWc1IAc0et7X8747
+s029,The Night We Met,Lord Huron,Indie,English,sadness,-0.68,0.37,0.58,0.57,87,"Relax,Sleep,Focus",https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp
+s030,Lovely,Billie Eilish and Khalid,Pop,English,sadness,-0.78,0.3,0.35,0.73,115,"Relax,Sleep",https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4
+s031,Skinny Love,Bon Iver,Indie,English,sadness,-0.65,0.28,0.44,0.88,76,"Relax,Focus",https://open.spotify.com/track/2cbic3TiVTACmAeoRna923
+s032,Liability,Lorde,Pop,English,sadness,-0.7,0.22,0.54,0.89,76,"Relax,Sleep",https://open.spotify.com/track/63v1EZxZq7b19n6uB76y28
+s033,All I Want,Kodaline,Acoustic,English,sadness,-0.69,0.35,0.48,0.74,85,"Relax,Focus",https://open.spotify.com/track/0NFBqfGqQkG8z9R0QoB8Jz
+s034,Glimpse of Us,Joji,R&B,English,sadness,-0.82,0.25,0.44,0.89,85,"Relax,Sleep",https://open.spotify.com/track/6xGruihLsy4yoE2PFLVlj5
+s035,When the Party's Over,Billie Eilish,Pop,English,sadness,-0.8,0.18,0.37,0.98,83,"Relax,Sleep",https://open.spotify.com/track/43zdsphuZLzwA9k1DJhU0I
+s036,Say Something,"A Great Big World, Christina Aguilera",Pop,English,sadness,-0.74,0.21,0.41,0.85,71,"Relax,Sleep",https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N
+s037,Slow Dancing in the Dark,Joji,R&B,English,sadness,-0.64,0.48,0.52,0.54,89,"Relax,Commute,Sleep",https://open.spotify.com/track/0M3adYbGtyRHACP86G9NFR
+s038,Driver's License,Olivia Rodrigo,Pop,English,sadness,-0.6,0.43,0.59,0.72,72,"Travel,Commute",https://open.spotify.com/track/5wANPM4fQCExvlQYd99rZJ
+s039,Supermarket Flowers,Ed Sheeran,Acoustic,English,sadness,-0.71,0.26,0.59,0.91,90,"Relax,Sleep",https://open.spotify.com/track/4VuS959o2iT2Rh5wwXqeqP
+s040,Atlantis,Seafret,Indie,English,sadness,-0.66,0.39,0.42,0.7,77,"Relax,Focus",https://open.spotify.com/track/15vA8mN0iZ3z3P9z8hQ8y7
+s041,Channa Mereya,Arijit Singh,Acoustic,Hindi,sadness,-0.76,0.48,0.46,0.55,80,"Relax,Travel",https://open.spotify.com/track/10k4jY3l6Q2Z9mX9v8w7x6
+s042,Tujhe Kitna Chahne Lage,Arijit Singh,Pop,Hindi,sadness,-0.68,0.44,0.5,0.62,78,"Relax,Commute",https://open.spotify.com/track/2k89lZ8z9Y2j3mX1v8w7y5
+s043,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Pop,Hindi,sadness,-0.72,0.45,0.55,0.67,85,"Relax,Travel",https://open.spotify.com/track/3l89mY7x8Z1j2wX9v7z6a4
+s044,Saturn,Sleeping At Last,Indie,English,sadness,-0.55,0.34,0.31,0.78,120,"Sleep,Focus,Study",https://open.spotify.com/track/1BxfuPKGuaTX48vMny7EvC
+s045,Clair de Lune,Claude Debussy,Classical,Instrumental,sadness,-0.4,0.15,0.28,0.99,60,"Sleep,Study,Relax",https://open.spotify.com/track/6N7gZrmpV08j1R3q8zX3w8
+s046,Sunflower,"Post Malone, Swae Lee",Hip-Hop,English,chill,0.72,0.48,0.76,0.56,90,"Focus,Coding,Study,Relax",https://open.spotify.com/track/3KkXRQHbMCARz0aVfEt68P
+s047,Heat Waves,Glass Animals,Indie,English,chill,0.64,0.53,0.76,0.44,81,"Focus,Coding,Travel,Relax",https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+s048,Golden Hour,JVKE,Pop,English,chill,0.6,0.49,0.52,0.75,94,"Relax,Study,Focus",https://open.spotify.com/track/5odlY52u43F5BjByEB795P
+s049,Best Part,Daniel Caesar ft. H.E.R.,R&B,English,chill,0.68,0.38,0.65,0.81,75,"Relax,Sleep,Study",https://open.spotify.com/track/1RMJOxRvlC2e2J250UQFu7
+s050,Sunday Best,Surfaces,Pop,English,chill,0.75,0.53,0.88,0.18,112,"Travel,Commute,Relax",https://open.spotify.com/track/1Q2z9h3K8X2m7w9Z8v7x6a
+s051,As It Was,Harry Styles,Pop,English,chill,0.66,0.73,0.52,0.34,174,"Travel,Commute,Coding",https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e
+s052,Coffee Breath,Sofia Mills,Lo-Fi,English,chill,0.58,0.28,0.62,0.91,72,"Study,Focus,Coding",https://open.spotify.com/track/2X2z9h4K8X2m7w9Z8v7x6b
+s053,Get You,Daniel Caesar ft. Kali Uchis,R&B,English,chill,0.62,0.35,0.66,0.43,60,"Relax,Sleep,Study",https://open.spotify.com/track/7zFXmv6vqIva5bKw4vAlDl
+s054,Weightless,Marconi Union,Ambient,Instrumental,chill,0.5,0.09,0.16,0.99,60,"Sleep,Relax,Study",https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6
+s055,Weightless Pt. 2,Marconi Union,Ambient,Instrumental,chill,0.48,0.08,0.14,0.99,58,"Sleep,Relax",https://open.spotify.com/track/7kkwzB6hXLIONkEk9JciA7
+s056,Gymnopedie No. 1,Erik Satie,Classical,Instrumental,chill,0.42,0.12,0.25,0.99,65,"Study,Sleep,Relax",https://open.spotify.com/track/5NGtFXV1UvAwh5j2n109h2
+s057,Experience,Ludovico Einaudi,Classical,Instrumental,chill,0.62,0.48,0.38,0.96,134,"Study,Coding,Focus",https://open.spotify.com/track/1BncfTJAWxRiaocUESPvnm
+s058,Nuvole Bianche,Ludovico Einaudi,Classical,Instrumental,chill,0.55,0.26,0.32,0.98,138,"Study,Relax,Sleep",https://open.spotify.com/track/3weNRklVDfd43bFFOGHG0Q
+s059,River Flows In You,Yiruma,Classical,Instrumental,chill,0.6,0.22,0.34,0.98,67,"Study,Relax,Sleep",https://open.spotify.com/track/2agBDIr9MYmvyiC5dw1zKz
+s060,Affection,Jinsang,Lo-Fi,Instrumental,chill,0.65,0.32,0.72,0.85,84,"Study,Coding,Focus",https://open.spotify.com/track/748mdHaplaQNT8Gne22BzR
+s061,Controlla,Idealism,Lo-Fi,Instrumental,chill,0.58,0.35,0.7,0.82,85,"Study,Coding,Focus",https://open.spotify.com/track/748mdHaplaQNT8Gne22BzS
+s062,Snowman,WYS,Lo-Fi,Instrumental,chill,0.52,0.29,0.64,0.88,78,"Study,Sleep,Coding",https://open.spotify.com/track/748mdHaplaQNT8Gne22BzT
+s063,Daylight,Taylor Swift,Pop,English,chill,0.64,0.45,0.56,0.78,150,"Relax,Commute,Travel",https://open.spotify.com/track/1fyR2K9d0l3m8w1Z9v8x7a
+s064,Beyond,Leon Bridges,R&B,English,chill,0.7,0.42,0.6,0.55,75,"Relax,Travel,Commute",https://open.spotify.com/track/34s4dD8k3G5P1a7J6x9Z8w
+s065,Baarishein,Anuv Jain,Acoustic,Hindi,chill,0.63,0.32,0.55,0.89,78,"Relax,Study,Travel",https://open.spotify.com/track/4l89mZ7x8Y1j2wX9v7z6b5
+s066,Iktara,"Kavita Seth, Amitabh Bhattacharya",Pop,Hindi,chill,0.68,0.45,0.62,0.72,82,"Relax,Travel,Study",https://open.spotify.com/track/5l89mZ7x8Y1j2wX9v7z6c6
+s067,Ocean Eyes,Billie Eilish,Pop,English,chill,0.55,0.37,0.51,0.82,145,"Relax,Sleep,Study",https://open.spotify.com/track/7hDVYcQq6MxnzWSTtxGVZa
+s068,Sunset Lover,Petit Biscuit,Electronic,Instrumental,chill,0.68,0.54,0.74,0.62,90,"Focus,Travel,Coding",https://open.spotify.com/track/0hNdu5yooPP1Lfrqh92Jqa
+s069,Midnight City,M83,Electronic,English,chill,0.65,0.72,0.52,0.01,105,"Coding,Travel,Commute",https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt
+s070,Lover,Taylor Swift,Pop,English,chill,0.7,0.48,0.58,0.49,68,"Relax,Travel",https://open.spotify.com/track/1dGr1nsAZkt7oLM9QpMW9U
+s071,Believer,Imagine Dragons,Rock,English,anger,-0.65,0.92,0.78,0.05,125,"Workout,Coding",https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP
+s072,Numb,Linkin Park,Rock,English,anger,-0.74,0.9,0.5,0.01,110,"Workout,Coding",https://open.spotify.com/track/2nLtzopw4rPReszdvJWwla
+s073,In the End,Linkin Park,Rock,English,anger,-0.68,0.89,0.55,0.01,105,"Workout,Coding",https://open.spotify.com/track/60a0Rd6pj0xtZHAcv7Ovbt
+s074,Break Stuff,Limp Bizkit,Rock,English,anger,-0.85,0.96,0.68,0.01,110,Workout,https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX
+s075,Duality,Slipknot,Metal,English,anger,-0.88,0.98,0.44,0.0,144,Workout,https://open.spotify.com/track/61mWugFDjuT89SxUIQgRrQ
+s076,Killing In The Name,Rage Against the Machine,Rock,English,anger,-0.9,0.95,0.46,0.01,88,Workout,https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp
+s077,Lose Yourself,Eminem,Hip-Hop,English,anger,-0.58,0.92,0.69,0.01,171,"Workout,Coding",https://open.spotify.com/track/15JINEqzVMv3SvJQI3DaO2
+s078,Till I Collapse,Eminem ft. Nate Dogg,Hip-Hop,English,anger,-0.55,0.94,0.55,0.06,171,"Workout,Coding",https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS
+s079,Stronger,Kanye West,Hip-Hop,English,anger,-0.45,0.88,0.62,0.01,104,"Workout,Commute",https://open.spotify.com/track/4jHsJ1j3L28y7w9X8v7x6c
+s080,Bulls on Parade,Rage Against the Machine,Rock,English,anger,-0.84,0.93,0.45,0.01,83,Workout,https://open.spotify.com/track/0Rojz7WJj2x8K2z8X1z6Y4
+s081,Smells Like Teen Spirit,Nirvana,Rock,English,anger,-0.72,0.91,0.5,0.0,117,"Workout,Coding",https://open.spotify.com/track/5ghIJDpPoeEgCfW3Je7FdD
+s082,Chop Suey!,System Of A Down,Metal,English,anger,-0.82,0.96,0.42,0.0,127,Workout,https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN
+s083,Psychosocial,Slipknot,Metal,English,anger,-0.86,0.97,0.48,0.0,135,Workout,https://open.spotify.com/track/3RAFStZpsn8yUfl2qJ2a1P
+s084,Monster,Skillet,Rock,English,anger,-0.7,0.95,0.52,0.01,135,Workout,https://open.spotify.com/track/2DwUdMJ5uxv20k2dH78h28
+s085,Animal I Have Become,Three Days Grace,Rock,English,anger,-0.78,0.94,0.48,0.01,122,Workout,https://open.spotify.com/track/34s4dD8k3G5P1a7J6x9Z8x
+s086,Given Up,Linkin Park,Rock,English,anger,-0.89,0.97,0.45,0.0,150,Workout,https://open.spotify.com/track/1a2b3c4d5e6f7g8h9i0j1k
+s087,Bleed It Out,Linkin Park,Rock,English,anger,-0.6,0.93,0.58,0.02,140,"Workout,Party",https://open.spotify.com/track/2a3b4c5d6e7f8g9h0i1j2k
+s088,Radioactive,Imagine Dragons,Rock,English,anger,-0.52,0.88,0.45,0.11,136,"Workout,Travel",https://open.spotify.com/track/62yJjFZ4a89v2x1z6Y4x5w
+s089,Warriors,Imagine Dragons,Rock,English,anger,-0.45,0.91,0.48,0.02,78,"Workout,Coding",https://open.spotify.com/track/72yJjFZ4a89v2x1z6Y4x5x
+s090,Natural,Imagine Dragons,Rock,English,anger,-0.5,0.89,0.65,0.18,100,"Workout,Travel",https://open.spotify.com/track/2FY7b99s15QAogSt3m5WwQ
+s091,Bury a Friend,Billie Eilish,Electronic,English,fear,-0.68,0.69,0.9,0.74,120,"Focus,Coding",https://open.spotify.com/track/43zdsphuZLzwA9k1DJhU0J
+s092,Disturbia,Rihanna,Pop,English,fear,-0.55,0.82,0.71,0.08,125,"Workout,Party",https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RK
+s093,Control,Halsey,Pop,English,fear,-0.72,0.74,0.55,0.15,124,"Focus,Workout",https://open.spotify.com/track/34s4dD8k3G5P1a7J6x9Z8y
+s094,Somebody's Watching Me,Rockwell,Pop,English,fear,-0.48,0.78,0.79,0.05,124,"Party,Travel",https://open.spotify.com/track/44s4dD8k3G5P1a7J6x9Z8z
+s095,Tubular Bells,Mike Oldfield,Ambient,Instrumental,fear,-0.58,0.62,0.35,0.48,140,"Focus,Study",https://open.spotify.com/track/54s4dD8k3G5P1a7J6x9Z8a
+s096,Haunted,Beyonce,R&B,English,fear,-0.62,0.58,0.45,0.32,110,"Relax,Focus",https://open.spotify.com/track/64s4dD8k3G5P1a7J6x9Z8b
+s097,Run,AWOLNATION,Electronic,English,fear,-0.6,0.88,0.42,0.05,120,"Workout,Coding",https://open.spotify.com/track/74s4dD8k3G5P1a7J6x9Z8c
+s098,Nightcall,Kavinsky,Synthwave,Electronic,fear,-0.42,0.72,0.62,0.02,91,"Coding,Travel,Commute",https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksH633
+s099,Teardrop,Massive Attack,Electronic,English,fear,-0.35,0.55,0.68,0.28,77,"Focus,Coding,Relax",https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ
+s100,Stranger Things Theme,Kyle Dixon and Michael Stein,Synthwave,Instrumental,fear,-0.45,0.68,0.48,0.08,84,"Coding,Focus",https://open.spotify.com/track/1W2z9h4K8X2m7w9Z8v7x6d
+s101,Starboy,The Weeknd ft. Daft Punk,Electronic,English,surprise,0.6,0.83,0.68,0.14,186,"Party,Workout,Coding",https://open.spotify.com/track/7MXVkk9YM5FZxjWnR0g0hk
+s102,Animals,Martin Garrix,Electronic,Instrumental,surprise,0.55,0.95,0.72,0.01,128,"Workout,Party",https://open.spotify.com/track/62yJjFZ4a89v2x1z6Y4x5y
+s103,Wake Me Up,Avicii,Electronic,English,surprise,0.75,0.89,0.53,0.0,124,"Party,Workout,Travel",https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2
+s104,Closer,The Chainsmokers ft. Halsey,Electronic,English,surprise,0.65,0.78,0.75,0.41,95,"Party,Travel,Commute",https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw
+s105,Something Just Like This,The Chainsmokers and Coldplay,Electronic,English,surprise,0.7,0.79,0.62,0.05,103,"Travel,Commute,Workout",https://open.spotify.com/track/6RUKPb495KWoXACMI4FlQI
+s106,Titanium,David Guetta ft. Sia,Electronic,English,surprise,0.68,0.92,0.6,0.07,126,"Workout,Party",https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4
+s107,Heroes (we could be),Alesso ft. Tove Lo,Electronic,English,surprise,0.66,0.88,0.58,0.02,126,"Workout,Travel,Party",https://open.spotify.com/track/1TDLuuLlV54CkRRUOahJb5
+s108,Levels,Avicii,Electronic,Instrumental,surprise,0.72,0.91,0.58,0.04,126,"Party,Workout",https://open.spotify.com/track/5UqCQwD7z4NWtK04KG1zsl
+s109,Lean On,Major Lazer and DJ Snake,Electronic,English,surprise,0.68,0.81,0.72,0.0,98,"Party,Dance,Commute",https://open.spotify.com/track/4AeoRna923cbic3TiVTACm
+s110,Strobe,deadmau5,Electronic,Instrumental,surprise,0.6,0.82,0.65,0.01,128,"Coding,Focus",https://open.spotify.com/track/5AeoRna923cbic3TiVTACn
+s111,bad guy,Billie Eilish,Pop,English,disgust,-0.56,0.72,0.7,0.33,135,"Workout,Coding",https://open.spotify.com/track/2Fxmhks0geGgN9vsu485zF
+s112,Therefore I Am,Billie Eilish,Pop,English,disgust,-0.62,0.68,0.87,0.22,94,"Commute,Travel",https://open.spotify.com/track/54b8qgAzbLj49bqq3ilWqU
+s113,You Should See Me in a Crown,Billie Eilish,Pop,English,disgust,-0.7,0.76,0.68,0.01,150,"Workout,Coding",https://open.spotify.com/track/3XvjYF59WfF7K1z8Y1z6Y4
+s114,Look What You Made Me Do,Taylor Swift,Pop,English,disgust,-0.64,0.8,0.76,0.01,128,"Workout,Commute",https://open.spotify.com/track/127Qblo2RpmTHHG6bY8muw
+s115,I Hate Everything About You,Three Days Grace,Rock,English,disgust,-0.82,0.91,0.46,0.01,90,Workout,https://open.spotify.com/track/0Z7n0L1fD2x9m8w1Z9v8x8
+s116,Creep,Radiohead,Rock,English,disgust,-0.68,0.58,0.51,0.01,92,"Relax,Focus",https://open.spotify.com/track/70LHG0Q3weNRklVDfd43bF
+s117,Boulevard of Broken Dreams,Green Day,Rock,English,disgust,-0.55,0.78,0.49,0.01,167,"Travel,Commute,Coding",https://open.spotify.com/track/5QORRvy00f1k4uVqUo6t2O
+s118,Basket Case,Green Day,Rock,English,disgust,-0.48,0.94,0.44,0.0,175,"Workout,Commute",https://open.spotify.com/track/6L89mZ7x8Y1j2wX9v7z6d7
+s119,Heart-Shaped Box,Nirvana,Rock,English,disgust,-0.75,0.74,0.42,0.02,100,"Workout,Coding",https://open.spotify.com/track/144s4dD8k3G5P1a7J6x9Z8
+s120,Seven Nation Army,The White Stripes,Rock,English,disgust,-0.42,0.84,0.74,0.01,124,"Workout,Travel",https://open.spotify.com/track/3dPQuX8Gs42Y7b454YbpMR
+s121,Resonance,HOME,Synthwave,Instrumental,neutral,0.15,0.58,0.65,0.08,170,"Coding,Focus,Study",https://open.spotify.com/track/1Tu2z9h4K8X2m7w9Z8v7x6e
+s122,Rendezvous,Scandroid,Synthwave,Instrumental,neutral,0.1,0.65,0.58,0.02,115,"Coding,Focus",https://open.spotify.com/track/2Tu2z9h4K8X2m7w9Z8v7x6f
+s123,A Walk,Tycho,Ambient,Instrumental,neutral,0.2,0.52,0.62,0.35,105,"Coding,Focus,Study,Relax",https://open.spotify.com/track/6Tu2z9h4K8X2m7w9Z8v7x6g
+s124,Awake,Tycho,Ambient,Instrumental,neutral,0.25,0.55,0.6,0.28,100,"Coding,Focus,Study",https://open.spotify.com/track/7Tu2z9h4K8X2m7w9Z8v7x6h
+s125,Montana,Tycho,Ambient,Instrumental,neutral,0.18,0.5,0.58,0.4,110,"Coding,Study,Relax",https://open.spotify.com/track/8Tu2z9h4K8X2m7w9Z8v7x6i
+s126,Time,Hans Zimmer,Classical,Instrumental,neutral,0.05,0.55,0.24,0.68,64,"Focus,Study,Coding",https://open.spotify.com/track/6ZFbIcPtKiWioioRZZs014
+s127,Cornfield Chase,Hans Zimmer,Classical,Instrumental,neutral,0.12,0.65,0.28,0.72,97,"Focus,Study,Coding",https://open.spotify.com/track/1A2z9h4K8X2m7w9Z8v7x6j
+s128,Day One,Hans Zimmer,Classical,Instrumental,neutral,0.08,0.38,0.25,0.85,70,"Study,Focus,Sleep",https://open.spotify.com/track/2A2z9h4K8X2m7w9Z8v7x6k
+s129,Intro,The xx,Indie,Instrumental,neutral,0.15,0.52,0.7,0.44,100,"Coding,Focus,Commute",https://open.spotify.com/track/2A2z9h4K8X2m7w9Z8v7x6l
+s130,Sunset,The Midnight,Synthwave,English,neutral,0.22,0.75,0.55,0.02,110,"Coding,Travel,Commute",https://open.spotify.com/track/3A2z9h4K8X2m7w9Z8v7x6m
+s131,Days of Thunder,The Midnight,Synthwave,English,neutral,0.18,0.72,0.58,0.03,112,"Coding,Travel",https://open.spotify.com/track/4A2z9h4K8X2m7w9Z8v7x6n
+s132,Jason,The Midnight ft. Nikki Flores,Synthwave,English,neutral,0.25,0.78,0.62,0.04,115,"Coding,Drive",https://open.spotify.com/track/5A2z9h4K8X2m7w9Z8v7x6o
+s133,Flashing Lights,Kanye West ft. Dwele,Hip-Hop,English,neutral,0.12,0.62,0.64,0.04,90,"Commute,Coding",https://open.spotify.com/track/3A2z9h4K8X2m7w9Z8v7x6p
+s134,Electric Feel,MGMT,Indie,English,neutral,0.25,0.75,0.76,0.12,103,"Party,Travel,Coding",https://open.spotify.com/track/2A2z9h4K8X2m7w9Z8v7x6q
+s135,Kids,MGMT,Indie,English,neutral,0.2,0.88,0.55,0.02,123,"Party,Travel",https://open.spotify.com/track/1A2z9h4K8X2m7w9Z8v7x6r
